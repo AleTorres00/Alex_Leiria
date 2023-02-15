@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         </p>
-        <h1>Hello BrightStarts!</h1>
+        <h1>O Tiaguito dos 1000 e 1 pratos!!</h1>
       </header>
     </div>
   );
